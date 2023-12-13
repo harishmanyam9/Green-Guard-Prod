@@ -32,19 +32,18 @@ This repository contains a robust set of data pre-processing and visualization s
 
 - ## Visualization using seaborn based on the sorted data
   
-  ![Unknown-13](https://github.com/harishmanyam9/Green-Guard/assets/113054457/a75221b7-dc86-4a43-acbe-ef3f752a5ddc)
+  ![Sorted_Data](https://github.com/harishmanyam9/Green-Guard-Prod/assets/113054457/002c284b-2751-4086-9f4c-56618e97f910)
 
-  
 
 - ## Value Counts of Diseases for Each Plant
-  
-  ![Unknown-14](https://github.com/harishmanyam9/Green-Guard/assets/113054457/daecacdd-5d65-4e39-955f-6a3aeffa7946)
 
-  
+  ![each_plant](https://github.com/harishmanyam9/Green-Guard-Prod/assets/113054457/7b549ef6-1b31-4ada-991d-6d67a8fc816c)
+
 
 - ## Plot disease counts for plants
   
-  ![Unknown-15](https://github.com/harishmanyam9/Green-Guard/assets/113054457/a909172b-4280-4142-ac61-52aa969ccae9)
+  ![Function](https://github.com/harishmanyam9/Green-Guard-Prod/assets/113054457/563af8c8-e22a-47c3-a25a-6bc4031ddb6d)
+
 
 # Plant Disease Classification: Data Preprocessing and Model Preparation
 
