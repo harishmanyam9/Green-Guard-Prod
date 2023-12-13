@@ -125,6 +125,38 @@ reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.9, patience=2, verbos
 
 ```
 
+## Model Training Progress and Observations
+
+During the training of our model, we observed the following key points:
+
+- **Epoch 17**: The model showed significant improvement, with the validation loss decreasing from 0.11383 to 0.08642. This was the best performance so far, and the model was saved accordingly.
+- **Epochs 18-20**: Despite further training, the model did not surpass the performance of Epoch 17. The validation loss did not improve from 0.08642, indicating a possible plateau in learning.
+
+
+
+## InceptionV3 Model Accuracy
+
+<img width="897" alt="Screenshot 2023-12-13 at 12 48 02 AM" src="https://github.com/harishmanyam9/Green-Guard-Prod/assets/113054457/a9f80bf6-3538-48ff-a64f-cd1b513420cc">
+
+## InceptionV3 Model Loss
+
+<img width="897" alt="Screenshot 2023-12-13 at 12 48 02 AM" src="https://github.com/harishmanyam9/Green-Guard-Prod/assets/113054457/9d360d8c-e6df-45cc-b4f5-007fa18e622f">
+
+## Results
+
+<img width="675" alt="Screenshot 2023-12-13 at 12 50 19 AM" src="https://github.com/harishmanyam9/Green-Guard-Prod/assets/113054457/2e8a4af9-a2b5-415a-b6d7-2868b98cce72">
+
+## GradIo Interface
+
+<img width="1316" alt="Screenshot 2023-12-12 at 11 42 57 PM" src="https://github.com/harishmanyam9/Green-Guard-Prod/assets/113054457/cc3c5ce6-279a-4268-86d8-0db9c7db7a64">
+
+
+
+
+
+
+
+
 
 
 
