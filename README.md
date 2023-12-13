@@ -24,7 +24,7 @@ This repository contains a robust set of data pre-processing and visualization s
     - Evaluate Transfer Learing model.
     - Evaluate Custom Model.
 - [Model Deployment](#modeldeploy)
-    - Deploy the model for real-time predictions.
+    - Deploy the model for real-time predictions. a
     
 
 
